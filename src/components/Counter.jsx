@@ -7,7 +7,7 @@ class Counter extends Component {
     }
   }
   inc = () =>{
-    this.setState({
+      this.setState({
       count: this.state.count + 1
     })
   }
