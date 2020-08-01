@@ -1,12 +1,14 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import Counter from './components/Counter'
+// import Counter from './components/Counter'
+import CounterHooks from './components/CounterHooks'
 
 function App() {
   return (
     <div>
-      <Counter/>
+      {/*<Counter/>*/}
+      <CounterHooks/>
     </div>
   )
 }
