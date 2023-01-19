@@ -3,5 +3,10 @@
   "editor.formatOnType": true,
   "editor.formatOnSave": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "typescript.updateImportsOnFileMove.enabled": "always"
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4B2212",
+    "titleBar.activeBackground": "#693019",
+    "titleBar.activeForeground": "#FDF9F7"
+  }
 }
